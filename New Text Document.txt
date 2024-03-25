@@ -1,0 +1,4 @@
+s>pip install scikit-learn==0.17 --user
+pip install pandas --user
+pip install sklearn-genetic==0.2
+pip install -U scikit-learn scipy matplotlib
